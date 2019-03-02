@@ -1,0 +1,7 @@
+[package]
+name = "jewels_and_stones"
+version = "0.1.0"
+authors = ["Andrew Newlands <andrew_newlands@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
